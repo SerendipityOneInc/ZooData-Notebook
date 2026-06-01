@@ -10,12 +10,12 @@ Interactive Colab notebooks demonstrating [APIClaw](https://apiclaw.io) APIs —
 
 ## Notebooks
 
-### Fashion Search
+### E-Commerce
 
 | Notebook | Description | APIs Used |
 |----------|-------------|-----------|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SerendipityOneInc/APIClaw-Notebook/blob/main/fashion/fashion_product_search_demo.ipynb) [Text Search](fashion/fashion_product_search_demo.ipynb) | Find fashion products with natural-language queries. Covers brand, price, and retailer filtering. | `fashion-product-search` |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SerendipityOneInc/APIClaw-Notebook/blob/main/fashion/fashion_image_search_demo.ipynb) [Image Search](fashion/fashion_image_search_demo.ipynb) | Visual similarity search — upload an image, find matching products. Includes bounding-box cropping, text-guided search, and a "Shop the Look" pipeline. | `fashion-image-search` |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SerendipityOneInc/APIClaw-Notebook/blob/main/e-commerce/fashion_product_search_demo.ipynb) [Text Search](e-commerce/fashion_product_search_demo.ipynb) | Find fashion products with natural-language queries. Covers brand, price, and retailer filtering. | `fashion-product-search` |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SerendipityOneInc/APIClaw-Notebook/blob/main/e-commerce/fashion_image_search_demo.ipynb) [Image Search](e-commerce/fashion_image_search_demo.ipynb) | Visual similarity search — upload an image, find matching products. Includes bounding-box cropping, text-guided search, and a "Shop the Look" pipeline. | `fashion-image-search` |
 
 ## API Reference
 
