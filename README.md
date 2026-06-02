@@ -4,9 +4,11 @@ Interactive Colab notebooks demonstrating [APIClaw](https://apiclaw.io) APIs —
 
 ## Getting Started
 
-1. Get a free API key (1,000 credits) at [apiclaw.io/register](https://apiclaw.io/register)
+1. Sign up at [apiclaw.io/register](https://apiclaw.io/register) to get your API key (includes 1,000 free credits)
 2. Click any **Open in Colab** badge below
 3. Paste your API key when prompted
+
+Need more credits for production workloads? See our [pricing plans](https://apiclaw.io/pricing).
 
 ## Notebooks
 
