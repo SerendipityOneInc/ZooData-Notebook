@@ -16,8 +16,8 @@ Need more credits for production workloads? See our [pricing plans](https://apic
 
 | Notebook | Description | APIs Used |
 |----------|-------------|-----------|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SerendipityOneInc/APIClaw-Notebook/blob/main/e-commerce-search/product_search.ipynb) [Product Search](e-commerce-search/product_search.ipynb) | Find fashion products with natural-language queries. Covers brand, price, and retailer filtering. | `fashion-product-search` |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SerendipityOneInc/APIClaw-Notebook/blob/main/e-commerce-search/image_search.ipynb) [Image Search](e-commerce-search/image_search.ipynb) | Visual similarity search — upload an image, find matching products. Includes detection, bounding-box cropping, text-guided search, "Shop the Look" pipeline, and direct SigLIP2 embeddings. | `fashion-image-search`, `image-detection`, `image-embedding`, `fashion-image-embedding`, `fashion-text-embedding`, `fashion-similarity` |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SerendipityOneInc/ZooData-Notebook/blob/main/e-commerce-search/product_search.ipynb) [Product Search](e-commerce-search/product_search.ipynb) | Find fashion products with natural-language queries. Covers brand, price, and retailer filtering. | `fashion-product-search` |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SerendipityOneInc/ZooData-Notebook/blob/main/e-commerce-search/image_search.ipynb) [Image Search](e-commerce-search/image_search.ipynb) | Visual similarity search — upload an image, find matching products. Includes detection, bounding-box cropping, text-guided search, "Shop the Look" pipeline, and direct SigLIP2 embeddings. | `fashion-image-search`, `image-detection`, `image-embedding`, `fashion-image-embedding`, `fashion-text-embedding`, `fashion-similarity` |
 
 ## The Model Behind the API: ZooClaw-FashionSigLIP2
 
@@ -29,7 +29,7 @@ APIClaw's fashion vision endpoints are powered by [**ZooClaw-FashionSigLIP2**](h
 
 Try the upgraded weights right now — no setup, no GPU:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SerendipityOneInc/APIClaw-Notebook/blob/main/e-commerce-search/image_search.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SerendipityOneInc/ZooData-Notebook/blob/main/e-commerce-search/image_search.ipynb)
 
 ## API Reference
 
