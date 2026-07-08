@@ -1,14 +1,14 @@
-# APIClaw Notebooks
+# ZooData Notebooks
 
-Interactive Colab notebooks demonstrating [APIClaw](https://apiclaw.io) APIs — e-commerce intelligence and AI model endpoints.
+Interactive Colab notebooks demonstrating [ZooData](https://zoodata.ai) APIs — e-commerce intelligence and AI model endpoints.
 
 ## Getting Started
 
-1. Sign up at [apiclaw.io/register](https://apiclaw.io/register) to get your API key (includes 1,000 free credits)
+1. Sign up at [zoodata.ai/register](https://zoodata.ai/register) to get your API key (includes 1,000 free credits)
 2. Click any **Open in Colab** badge below
 3. Paste your API key when prompted
 
-Need more credits for production workloads? See our [pricing plans](https://apiclaw.io/pricing).
+Need more credits for production workloads? See our [pricing plans](https://zoodata.ai/pricing).
 
 ## Notebooks
 
@@ -21,7 +21,7 @@ Need more credits for production workloads? See our [pricing plans](https://apic
 
 ## The Model Behind the API: ZooClaw-FashionSigLIP2
 
-APIClaw's fashion vision endpoints are powered by [**ZooClaw-FashionSigLIP2**](https://huggingface.co/srpone/zooclaw-fashionsiglip2) — our fashion-specialized SigLIP2 ViT-B/16 encoder producing 768-dim L2-normalized joint image/text embeddings. On our public [LookBench](https://github.com/SerendipityOneInc/look-bench) benchmark, it is currently the **best open-source fashion vision-language model** for brand, category, and fine-grained attribute matching.
+ZooData's fashion vision endpoints are powered by [**ZooClaw-FashionSigLIP2**](https://huggingface.co/srpone/zooclaw-fashionsiglip2) — our fashion-specialized SigLIP2 ViT-B/16 encoder producing 768-dim L2-normalized joint image/text embeddings. On our public [LookBench](https://github.com/SerendipityOneInc/look-bench) benchmark, it is currently the **best open-source fashion vision-language model** for brand, category, and fine-grained attribute matching.
 
 📄 Paper: [*ZooClaw-FashionSigLIP2: Distilled Fine-tuning for Robust Fashion Retrieval*](https://arxiv.org/abs/2606.27708) (Xue & Xu, 2026)
 
@@ -33,7 +33,7 @@ Try the upgraded weights right now — no setup, no GPU:
 
 ## API Reference
 
-Full documentation: [apiclaw.io/api-docs](https://apiclaw.io/api-docs)
+Full documentation: [zoodata.ai/api-docs](https://zoodata.ai/api-docs)
 
 | Endpoint | Method | Description | Cost |
 |----------|--------|-------------|------|
